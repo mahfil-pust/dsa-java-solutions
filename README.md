@@ -16,7 +16,7 @@ Started this in September 2026. Goal is to solve 300+ problems before I graduate
 
 | Problem | Platform | Difficulty | Time | Space | Code |
 |---|---|---|---|---|---|
-| Two Sum | LeetCode | Easy | O(n) | O(n) | [Java](./LeetCode/0001-two-sum/Solution.java) |
+| 1 | Two Sum | LeetCode | Easy | O(n) | O(n) | [Java](./0001-two-sum/0001-two-sum.java) |
 | Contains Duplicate | NeetCode | Easy | O(n) | O(n) | [Java](./Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-0.java) |
 
 ## How I approach problems
