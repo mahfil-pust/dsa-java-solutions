@@ -7,17 +7,17 @@ Started this in September 2026. Goal is to solve 300+ problems before I graduate
 ## What's in here
 
 - **NeetCode 150** — auto-synced from NeetCode.io
-- **LeetCode** — solved and pushed manually
-- **Complexity notes** — I try to write down time/space for each solution in the commit message
+- **LeetCode** — auto-synced via LeetHub v2
+- **Complexity notes** — time/space noted in each commit message
 
 ## Solved so far
 
-**Arrays & Hashing**
+### Arrays & Hashing
 
-| Problem | Platform | Difficulty | Time | Space | Code |
-|---|---|---|---|---|---|
+| # | Problem | Platform | Difficulty | Time | Space | Code |
+|---|---|---|---|---|---|---|
 | 1 | Two Sum | LeetCode | Easy | O(n) | O(n) | [Java](./0001-two-sum/0001-two-sum.java) |
-| Contains Duplicate | NeetCode | Easy | O(n) | O(n) | [Java](./Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-0.java) |
+| 217 | Contains Duplicate | NeetCode | Easy | O(n) | O(n) | [Java](./Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-0.java) |
 
 ## How I approach problems
 
@@ -30,18 +30,6 @@ Started this in September 2026. Goal is to solve 300+ problems before I graduate
 
 NeetCode 150 roadmap — Arrays & Hashing section.
 
-
+---
 
 *Last updated: 26 September 2026*
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/mahfil-pust/dsa-java-solutions/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/mahfil-pust/dsa-java-solutions/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
