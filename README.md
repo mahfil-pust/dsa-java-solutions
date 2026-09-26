@@ -33,3 +33,15 @@ NeetCode 150 roadmap — Arrays & Hashing section.
 
 
 *Last updated: 26 September 2026*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mahfil-pust/dsa-java-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mahfil-pust/dsa-java-solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
