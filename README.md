@@ -33,3 +33,19 @@ NeetCode 150 roadmap — Arrays & Hashing section.
 ---
 
 *Last updated: 26 September 2026*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mahfil-pust/dsa-java-solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mahfil-pust/dsa-java-solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mahfil-pust/dsa-java-solutions/tree/master/0242-valid-anagram) |
+<!---LeetCode Topics End-->
